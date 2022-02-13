@@ -32,8 +32,8 @@ p it.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/profile/Huzaifa1910/solutions)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/profile/Huzaifa1910/solutions)
+- Live Site URL:(https://huzaifaghoriport.web.app/projpge/PROJCETS/Challenge%204/index.html)
 
 ## My process
 
@@ -45,6 +45,7 @@ p it.
 
 ## Author
 
-- Website - [Add your name here](https://www.huzaifaghoriport.web.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Huzaifa1910)
+- Website - (https://www.huzaifaghoriport.web.app)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Huzaifa1910)
+
 
